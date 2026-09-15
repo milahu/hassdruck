@@ -6,6 +6,7 @@ Ich drucke nur Hass, kein Platz für Liebe.
 
 ## related
 
+- https://github.com/milahu/books
 - https://github.com/milahu/hocr-files-template-repo
   - https://github.com/milahu/hocr-files-template-repo/blob/main/082-print-parallel.py
 - https://github.com/milahu/alchi
