@@ -2,6 +2,8 @@
 
 Ich drucke nur Hass, kein Platz für Liebe.
 
+![book printer goes brr - milahu](img/book-printer-goes-brr.milahu.2.avif)
+
 
 
 ## related
