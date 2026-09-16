@@ -8,6 +8,7 @@ Ich drucke nur Hass, kein Platz für Liebe.
 
 ## related
 
+- https://www.youtube.com/playlist?list=PLS9_HdRCFIZ0 - hassdruck videos
 - https://github.com/milahu/books
 - https://github.com/milahu/hocr-files-template-repo
   - https://github.com/milahu/hocr-files-template-repo/blob/main/082-print-parallel.py
