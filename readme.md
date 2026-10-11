@@ -25,3 +25,17 @@ Ich drucke nur Hass, kein Platz für Liebe.
   - https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html
   - https://github.com/milahu/alchi-pdf/blob/main/pallas/print-loop.sh
 - https://github.com/milahu/kleinanzeigen/tree/main/Nachbarschaftshilfe/druckservice-scanservice-kopierservice
+
+
+
+## images
+
+![](img/IMG_20230829_193151.jpg.avif)
+
+![](img/IMG_20230912_185336.jpg.avif)
+
+![](img/IMG_20260623_162609.jpg.avif)
+
+![](img/IMG_20260719_184706.jpg.avif)
+
+![](img/IMG_20261011_203305.jpg.avif)
