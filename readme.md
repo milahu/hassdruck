@@ -6,6 +6,15 @@ Ich drucke nur Hass, kein Platz für Liebe.
 
 
 
+## keywords
+
+- print job from hell
+- print shop from hell
+- you cannot hate them enough
+- man kann sie nicht genug hassen
+
+
+
 ## related
 
 - https://www.youtube.com/playlist?list=PLS9_HdRCFIZ0 - hassdruck videos
