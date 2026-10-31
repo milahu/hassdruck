@@ -39,3 +39,5 @@ Ich drucke nur Hass, kein Platz für Liebe.
 ![](img/IMG_20260719_184706.jpg.avif)
 
 ![](img/IMG_20261011_203305.jpg.avif)
+
+![papier für 2000 bücher, davon gehen 99% in den müll, bleiben 20 bücher...](img/IMG_20261030_115313.crop.jpg.avif)
