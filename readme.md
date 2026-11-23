@@ -80,3 +80,9 @@ davon gehen 99% in den müll,
 bleiben 20 bücher...
 
 ![](img/IMG_20261030_115313.crop.jpg.avif)
+
+## IMG_20261123_124342
+
+Lies oder stirb!
+
+![](img/IMG_20261123_124342.jpg.avif)
